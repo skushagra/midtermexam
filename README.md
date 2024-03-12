@@ -1,5 +1,8 @@
 # API Documentation for Backend Midterm Exam
 
+To run the application server clone the Github repo and run the `MidtermexamApplication` file or use `./gradlew build` command to build
+the project and run it.
+
 ### API Call to get all products
 `GET http://localhost:8080/carts`
 
